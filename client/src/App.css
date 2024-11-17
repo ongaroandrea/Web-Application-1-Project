@@ -1,0 +1,38 @@
+.custom-border {
+    border-color: #060550;
+    border-width: 3px
+}
+
+.custom-color {
+    background-color: #586474
+}
+
+.custom-color:hover {
+    background-color: #060550
+}
+
+.wrong-field {
+    color: red;
+}
+
+.error-message {
+    color: red;
+}
+
+.button-create {
+    background-color: #060550;
+    color: white;
+}
+
+.button-create:hover {
+    background-color: #060550;
+    color: white;
+}
+
+.subtitle {
+    color: grey;
+}
+
+.blue-background {
+    background-color: #060550
+}
